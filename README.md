@@ -65,7 +65,7 @@ The book is on the table.
 ## 🌍 Deployment
 
 - **Deployed on:** *(e.g., Streamlit Cloud, Hugging Face Spaces, Render)*  
-- **Live Demo:** [🔗 Click Here](#https://sentiment-analysis-app-fpswwwwrydpbkappxjnccnz.streamlit.app/)   
+- **Live Demo:** [🔗 Click Here](https://sentiment-analysis-app-fpswwwwrydpbkappxjnccnz.streamlit.app/)   
 
 ---
 
